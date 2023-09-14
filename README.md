@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun Sharma 
-- 👀 I’m interested in Full stack development and learning of AI..
+- 👀 I’m interested in Mobile application development and cybersecurity 
 - 🌱 I’m currently learning Programming languages..
 - 💞️ I’m looking to collaborate on Developing software and apps..
 - 📫 How to reach me direct message me on my gmail:-sharmaarun4050@gmail.com
